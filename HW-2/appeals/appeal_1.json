@@ -1,0 +1,9 @@
+{
+  "surname": "Иванов",
+  "name": "Иван",
+  "birth_date": "1990-01-01",
+  "phone": "+7 (999) 123-45-67",
+  "email": "ivan@example.com",
+  "reason": "нет доступа к сети",
+  "problem_detected_at": "2025-07-05T14:27:50.890000+00:00"
+}
